@@ -39,3 +39,8 @@ I am interested in web development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexchasx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# Contact me
+
+<a href="https://t.me/a_chasovnikov">
+    <img src="https://img.shields.io/badge/Telegram-rgb(53,164,222)?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
