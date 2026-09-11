@@ -47,4 +47,7 @@ I love web development
 [![Email](https://img.shields.io/badge/Email-a.s.chasovnikov@yandex.ru-4A90E2?style=flat&logo=mailchimp&logoColor=white)](mailto:a.s.chasovnikov@yandex.ru)
 [![VK](https://img.shields.io/badge/VK-a.chasovnikov-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.ru/a.chasovnikov)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexchasx&show_icons=true&theme=tokyonight)
+
+
 
