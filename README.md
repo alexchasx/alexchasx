@@ -47,3 +47,6 @@ I love web development
 <a href="https://t.me/a_chasovnikov">
     <img src="https://img.shields.io/badge/Telegram-rgb(53,164,222)?logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
+[a.s.chasovnikov@yandex.ru](mailto:a.s.chasovnikov@yandex.ru)
+[VK: a.chasovnikov](https://vk.ru/a.chasovnikov)
+
