@@ -21,7 +21,6 @@ I love web development
 ![PHP](https://img.shields.io/badge/PHP-fff?logo=php&logoColor=fff&color=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-fff?logo=Laravel&logoColor=fff&color=FF2D20)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-fff?logo=MySQL&logoColor=fff&color=4479A1)
 ![Swagger](https://img.shields.io/badge/Swagger-fff?logo=Swagger&logoColor=000&color=85EA2D)
 ![Nginx](https://img.shields.io/badge/Nginx-fff?logo=Nginx&logoColor=fff&color=009639)
@@ -29,12 +28,7 @@ I love web development
 
 # Tools 🛠:
 ![SC Code Assistant](https://img.shields.io/badge/SC%20Code%20Assistant-purple?style=flat&logo=brain&logoColor=white)
-![SC Code Assistant](https://img.shields.io/badge/SC%20Code%20Assistant-purple)
-![SC Code Assistant](https://img.shields.io/badge/SC%20Code%20Assistant-purple?style=for-the-badge&logo=brain&logoColor=white)
 ![OpenSpec](https://img.shields.io/badge/OpenSpec-blue)
-![OpenSpec](https://img.shields.io/badge/OpenSpec-blue?style=flat&logo=api&logoColor=white)
-![OpenSpec](https://img.shields.io/badge/OpenSpec-blue?style=for-the-badge&logo=api&logoColor=white)
-
 ![Git](https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974)
 ![Figma](https://img.shields.io/badge/Figma-fff?logo=Figma&logoColor=fff&color=F24E1E)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23333?logo=visual%20studio%20code&logoColor=%23007ACC) ![Webpack](https://img.shields.io/badge/Webpack-%23E34F26?logo=webpack&logoColor=%23fff&color=%23539AC8)
