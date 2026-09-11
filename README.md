@@ -47,6 +47,6 @@ I love web development
 <a href="https://t.me/a_chasovnikov">
     <img src="https://img.shields.io/badge/Telegram-rgb(53,164,222)?logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-[a.s.chasovnikov@yandex.ru](mailto:a.s.chasovnikov@yandex.ru)
-[VK: a.chasovnikov](https://vk.ru/a.chasovnikov)
+[![Email](https://img.shields.io/badge/Email-a.s.chasovnikov@yandex.ru-4A90E2?style=flat&logo=mailchimp&logoColor=white)](mailto:a.s.chasovnikov@yandex.ru)
+[![VK](https://img.shields.io/badge/VK-a.chasovnikov-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.ru/a.chasovnikov)
 
