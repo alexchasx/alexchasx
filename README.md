@@ -43,10 +43,7 @@ I love web development
 ![ESLint](https://img.shields.io/badge/ESLint-%23E34F26?logo=eslint&logoColor=%23fff&color=%234B32C3)
 
 # Contact me
-
-<a href="https://t.me/a_chasovnikov">
-    <img src="https://img.shields.io/badge/Telegram-rgb(53,164,222)?logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
+![Telegram](https://img.shields.io/badge/Telegram-@a_chasovnikov-2481A6?style=flat&logo=telegram&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-a.s.chasovnikov@yandex.ru-4A90E2?style=flat&logo=mailchimp&logoColor=white)
 ![VK](https://img.shields.io/badge/VK-a.chasovnikov-0077FF?style=flat&logo=vk&logoColor=white)
 
